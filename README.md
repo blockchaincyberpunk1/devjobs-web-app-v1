@@ -33,7 +33,7 @@
 
 
 
-<p>Deployed website: <strong><a href="http://blockchaincyberpunk1.github.io/devjobs-web-app-v1">http://blockchaincyberpunk1.github.io/devjobs-web-app-v1</a></strong>
+<p>Deployed website: <strong><a href="http://blockchaincyberpunk1.github.io/devjobs-web-app-v1">[http://blockchaincyberpunk1.github.io/devjobs-web-app-v1](https://symphonious-sfogliatella-f07522.netlify.app/)</a></strong>
 
 
 
