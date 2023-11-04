@@ -19,7 +19,7 @@
 
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/blockchaincyberpunk1/devjobs-web-app-v1r?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/blockchaincyberpunk1/devjobs-web-app-v1?style=plastic)
 
   ![GitHub top language](https://img.shields.io/github/languages/top/blockchaincyberpunk1/devjobs-web-app-v1?style=plastic)
 
@@ -54,7 +54,7 @@ To set up this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/devjobs-web-app.git
+git clone [https://github.com/yourusername/devjobs-web-app.git](https://github.com/blockchaincyberpunk1/devjobs-web-app-v1.git)
 
 cd devjobs-web-app
 
