@@ -54,7 +54,7 @@ To set up this project locally, follow these steps:
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/devjobs-web-app.git](https://github.com/blockchaincyberpunk1/devjobs-web-app-v1.git)
+git clone https://github.com/blockchaincyberpunk1/devjobs-web-app-v1.git
 
 cd devjobs-web-app
 
